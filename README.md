@@ -3,7 +3,7 @@
 <br />
 <div id="top" align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://github.com//SteveHagins/SteveHagins.github.ioOld/blob/master/c64-icon.png?raw=true" alt="Logo" width="512" height="512">
+    <img src="https://raw.githubusercontent.com/SteveHagins/vintage-commodore-64/main/images/c64-icon.png?raw=true" alt="Logo" width="512" height="512">
   </a>
 
 <h3 align="center">Commodore 64</h3>

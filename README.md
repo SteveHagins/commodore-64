@@ -5,7 +5,9 @@
   <a href="https://github.com/github_username/repo_name">
     <img src="https://raw.githubusercontent.com/SteveHagins/vintage-commodore-64/main/images/c64-icon.png?raw=true" alt="Logo" width="512" height="512">
   </a>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SteveHagins/vintage-commodore-64/main/images/commodore-logo.png?raw=true" alt="Logo" width="256">
+</div>
 <h3 align="center">Commodore 64</h3>
 
 <p align="center">
